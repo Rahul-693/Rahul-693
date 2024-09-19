@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on front-e
   - Technologies used: HTML, CSS, Javascript
 
 ## 📫 How to Reach Me
-- Resume: [Rahul K](https://drive.google.com/file/d/12z7b1ccUKEVe_4tZ_wD4KyxSbDTjwapW/view?usp=sharing)
+- Resume: [Rahul K](https://drive.google.com/file/d/19YjYdkQw3J7MMB1jrpMJ0b639PkWP0Im/view?usp=sharing)
 - LinkedIn: [Rahul K](https://www.linkedin.com/in/rahul-k-aa36b0233/)
 - Leetcode: [Rahul_kumaresan](https://leetcode.com/u/Rahul_kumaresan/)
 
