@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on front-e
 - **Languages**:
   - C++ 
   - HTML
-  -  CSS
+  - CSS
   - JavaScript
 - **Frameworks/Libraries**:
   -  Bootstrap
@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on front-e
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-693&show_icons=true&theme=radical)
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_kumaresan?theme=dark)
 
 ## 🤝 Let's Connect
 I'm always open to discussing new projects, ideas, or collaboration opportunities. Feel free to connect with me!
