@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on front-e
 
 ## 🚀 Skills
 - **Languages**:
-  - C++ 
+  - C/C++
+  - Java 
   - HTML
   - CSS
   - JavaScript
