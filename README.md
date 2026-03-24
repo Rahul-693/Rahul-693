@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a focus on front-end technologies and building dynamic web applications. Here's a little bit about me:
 
 ## 💬 About Me
-- Front-end development
-- Responsive web design
+- Back-end developer
 - Competitive Coder
 - How to reach me: rahulkumaresan693@gmail.com
 
