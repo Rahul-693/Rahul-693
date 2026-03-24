@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on front-e
 - **Frameworks/Libraries**:
   -  Bootstrap
   -  Spring Boot
+- **Databases**:
+  -  MySQL
 - **Tools**:
   - Git, GitHub
   -  VS Code
