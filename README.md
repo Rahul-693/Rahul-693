@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rahul!
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on front-end technologies and building dynamic web applications. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a focus on back-end technologies and building dynamic web applications. Here's a little bit about me:
 
 ## 💬 About Me
 - Back-end developer
