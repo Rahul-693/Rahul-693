@@ -77,7 +77,6 @@ A responsive YouTube home page clone with smooth navigation and responsive UI.
 - 💼 **LinkedIn:** [Rahul K](https://www.linkedin.com/in/rahul-k-aa36b0233/)
 - 🏆 **LeetCode:** [Rahul_kumaresan](https://leetcode.com/u/Rahul_kumaresan/)
 
----
 
 ## 🏆 LeetCode Stats
 
